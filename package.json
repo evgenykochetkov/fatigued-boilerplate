@@ -39,6 +39,6 @@
     "react-redux": "^4.4.1",
     "redux": "^3.3.1",
     "redux-create-reducer": "^1.1.0",
-    "redux-saga": "^0.9.4"
+    "redux-saga": "^0.9.5"
   }
 }
