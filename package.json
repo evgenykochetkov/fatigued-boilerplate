@@ -6,6 +6,7 @@
   "scripts": {
     "start": "webpack-dev-server --inline --hot --history-api-fallback --port 3000",
     "build": "BABEL_ENV=production webpack --config webpack.config.production.js",
+    "gh-pages": "git subtree push --prefix dist origin gh-pages",
     "test": "tape -r babel-register ./src/**/*.test.js | faucet",
     "lint": "eslint ./src"
   },
