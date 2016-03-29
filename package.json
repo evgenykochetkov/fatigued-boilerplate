@@ -4,8 +4,8 @@
   "description": "",
   "private": true,
   "scripts": {
-    "start": "node server.js",
-    "build": "BABEL_ENV=production ./node_modules/.bin/webpack --config webpack.config.production.js",
+    "start": "webpack-dev-server --inline --hot --history-api-fallback --port 3000",
+    "build": "BABEL_ENV=production webpack --config webpack.config.production.js",
     "test": "tape -r babel-register ./src/**/*.test.js | faucet",
     "lint": "eslint ./src"
   },
@@ -26,6 +26,7 @@
     "eslint-plugin-react": "4.*",
     "eslint-plugin-standard": "1.*",
     "faucet": "0.0.1",
+    "html-webpack-plugin": "^2.14.0",
     "react-transform-hmr": "1.*",
     "tape": "^4.5.1",
     "webpack": "1.*",
