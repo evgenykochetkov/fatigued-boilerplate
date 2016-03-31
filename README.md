@@ -14,3 +14,5 @@
 - [ ] Template for a sane project structure(see [1](http://jaysoo.ca/2016/02/28/organizing-redux-application/),  [2](http://marmelab.com/blog/2015/12/17/react-directory-structure.html),  [3](http://engineering.kapost.com/2016/01/organizing-large-react-applications/),  [4](https://github.com/erikras/ducks-modular-redux))
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+
+Keeping dependencies up-to-date with [greenkeeper.io](https://greenkeeper.io/)
