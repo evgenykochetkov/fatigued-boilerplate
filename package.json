@@ -11,7 +11,7 @@
     "lint": "eslint ./src"
   },
   "devDependencies": {
-    "babel-core": "6.7.4",
+    "babel-core": "6.7.6",
     "babel-loader": "6.*",
     "babel-plugin-react-transform": "2.*",
     "babel-plugin-transform-runtime": "6.*",
