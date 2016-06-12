@@ -27,7 +27,7 @@
     "eslint-plugin-react": "4.*",
     "eslint-plugin-standard": "1.*",
     "faucet": "0.0.1",
-    "html-webpack-plugin": "^2.15.0",
+    "html-webpack-plugin": "^2.16.1",
     "react-transform-hmr": "1.*",
     "tape": "^4.5.1",
     "webpack": "1.*",
