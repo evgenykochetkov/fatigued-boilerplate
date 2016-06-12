@@ -30,7 +30,7 @@
     "html-webpack-plugin": "^2.20.0",
     "react-transform-hmr": "1.*",
     "tape": "^4.5.1",
-    "webpack": "1.*",
+    "webpack": "1.12.14",
     "webpack-dev-server": "1.*"
   },
   "dependencies": {
