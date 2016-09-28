@@ -36,7 +36,7 @@
     "webpack-dev-server": "1.14.1"
   },
   "dependencies": {
-    "babel-polyfill": "^6.9.1",
+    "babel-polyfill": "^6.16.0",
     "mirror-creator": "^1.1.0",
     "react": "^15.1.0",
     "react-dom": "^15.1.0",
