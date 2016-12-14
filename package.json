@@ -40,7 +40,7 @@
     "mirror-creator": "^1.1.0",
     "react": "^15.1.0",
     "react-dom": "^15.1.0",
-    "react-redux": "^4.4.5",
+    "react-redux": "^5.0.0",
     "redux": "^3.5.2",
     "redux-create-reducer": "^1.1.1",
     "redux-saga": "^0.10.5"
