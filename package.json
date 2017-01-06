@@ -29,7 +29,7 @@
     "eslint-config-standard-react": "4.2.0",
     "eslint-plugin-promise": "3.4.0",
     "eslint-plugin-react": "6.8.0",
-    "eslint-plugin-standard": "1.*",
+    "eslint-plugin-standard": "2.0.1",
     "html-webpack-plugin": "^2.26.0",
     "react-transform-hmr": "1.*",
     "webpack": "1.14.0",
