@@ -1,5 +1,7 @@
 # Yet another React boilerplate
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/evgenykochetkov/fatigued-boilerplate.svg)](https://greenkeeper.io/)
+
 ## TODO
 
 - [x] [Webpack](https://webpack.github.io)
