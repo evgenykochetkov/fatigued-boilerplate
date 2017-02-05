@@ -14,7 +14,7 @@
     "babel": "inherit"
   },
   "devDependencies": {
-    "ava": "^0.17.0",
+    "ava": "^0.18.1",
     "babel-core": "6.22.1",
     "babel-loader": "6.2.9",
     "babel-plugin-react-transform": "2.*",
